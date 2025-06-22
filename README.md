@@ -21,4 +21,4 @@ firstUnique.add(8)
 print(firstUnique.showFirstUnique())  # Output: -1
 ```
 
-###Originally completed as part of CS610 coursework at NJIT.
+### Originally completed as part of CS610 coursework at NJIT.
